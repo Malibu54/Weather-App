@@ -24,7 +24,7 @@ You can try out the Weather App by visiting the [live demo](https://malibucalcul
 
 To run the Weather App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Malibu54/Calculator.git`
+1. Clone the repository: `git clone https://github.com/Malibu54/Weather-App.git`
 2. Open the project folder.
 3. Open the `index.html` file in a web browser.
 
