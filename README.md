@@ -1,4 +1,4 @@
-# Calculator
+# Weather App
 
 This is a simple Weather web application built with HTML, CSS, and JavaScript. It allows users to check the weather in any city they wish. <br>
 ![Screenshot_1](/Weather-App/images/search_city.png)
