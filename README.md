@@ -18,7 +18,7 @@ This is a simple Weather web application built with HTML, CSS, and JavaScript. I
 
 ## Demo
 
-You can try out the Weather App by visiting the [live demo](https://malibucalculator.netlify.app/).
+You can try out the Weather App by visiting the [live demo](https://weatherapp-malibu54.netlify.app/).
 
 ## Getting Started
 
